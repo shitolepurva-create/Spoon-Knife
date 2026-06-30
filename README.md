@@ -12,3 +12,5 @@ Learning Git branching - Feature Login Branch
 
 ## Contribution by Purva
 Learning Github Pull Requests
+
+Learning Git Merge
