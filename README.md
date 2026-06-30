@@ -14,3 +14,6 @@ Learning Git branching - Feature Login Branch
 Learning Github Pull Requests
 
 Learning Git Merge
+
+Git Revert Practice
+Learning git revert command.
